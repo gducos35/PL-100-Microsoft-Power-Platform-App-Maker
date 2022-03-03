@@ -525,7 +525,7 @@ In this exercise, you will create a canvas application and add it to the model-d
 ![A screenshot with a border around the width changed to 400](03-2/media/ex_7_displaywidth.png)
 
 8.   Click **Apply** on the popup.
-9.   Enter **500** for Width.
+9.   Enter **500** for Height.
 10.  Click **Apply** on the popup.
 11.  Close the Settings popup window.
 12.  Select the **App** object from the Tree view.
