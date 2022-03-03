@@ -285,7 +285,7 @@ In this exercise, you will allow unassigned reports to be removed. This will all
 
 5.  Make sure you still have the icon selected. Change the **OnSelect** value to the formula below. This formula will remove item from the data source.
 
-`Remove('Problem Reports', ThisItem)`
+`Remove('Problem Report', ThisItem)`
 
 6.  Click **File** and then click **Save**.
 
